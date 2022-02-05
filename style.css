@@ -1,0 +1,18 @@
+body{
+  font-family:azonix;
+}
+* { 
+    margin: 0px; 
+    padding: 0px; 
+}
+.titlebar{
+  background: #0fd146;
+  width: 100%;
+  padding: 20px;
+  text-align:center;
+  opacity:70%;
+}
+.title{
+  color:white;
+  opacity:100%;
+}
